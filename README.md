@@ -10,3 +10,4 @@ TCGA Database: TCGA-YA-A8S7-01Z-00-DX1 {Liver Tumor Biopsy}
 Predicted lymphocyte heatmap on top of raw image
 
 ![](Slider.PNG)
+
